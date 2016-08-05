@@ -1,0 +1,21 @@
+#interactionArea{
+	position: relative;
+	
+	
+}
+#questionContainer{
+	
+	position: absolute;
+}
+#welcome{
+	
+	position: absolute;
+	text-align: center;
+	color: #ccc;
+	padding-bottom: 2em;
+	
+}
+
+.hide{
+	display: none;
+}
